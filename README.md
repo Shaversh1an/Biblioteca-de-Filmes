@@ -4,10 +4,6 @@
   <a href="https://shaversh1an.github.io/Biblioteca-de-Filmes/">Acesse Meu App</a>
 </h3>
 
-<p align="center">
-  <img alt="Tela Inicial" src="/home/shavershian/Documentos/Projetos/filmes/preview-movies.png" width="100%">
-</p>
-
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
